@@ -15,5 +15,7 @@ public class HelpActivity extends AppCompatActivity {
         setContentView(R.layout.activity_help);
 
         //nothing to do
+
+        //nothing to do 2
     }
 }
