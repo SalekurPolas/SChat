@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118726999402",
+    "firebase_url": "https://schat-salekur.firebaseio.com",
+    "project_id": "schat-salekur",
+    "storage_bucket": "schat-salekur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118726999402:android:37f66d32d6060b0dabf913",
+        "android_client_info": {
+          "package_name": "com.salekur.schat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118726999402-cqb1kofq641ubtn2ro1igpb2qot9enj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salekur.schat",
+            "certificate_hash": "70943eb06aa4ea16dfdf41028b31e8ac9fd9d0f1"
+          }
+        },
+        {
+          "client_id": "118726999402-ro36fvmvn55qdr9srshvoskdgl83k4eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqiOse17HgkiIvNh8Yila_FkV4TFEyec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118726999402-ro36fvmvn55qdr9srshvoskdgl83k4eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
